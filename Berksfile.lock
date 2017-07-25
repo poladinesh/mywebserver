@@ -1,0 +1,7 @@
+DEPENDENCIES
+  myhttpd
+    path: .
+    metadata: true
+
+GRAPH
+  myhttpd (0.2.0)
